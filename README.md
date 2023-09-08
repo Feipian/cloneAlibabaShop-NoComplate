@@ -1,3 +1,10 @@
+
+# Ref from 
+> https://www.youtube.com/watch?v=dVcCRFVhz74
+
+24:02
+
+
 # to be continue
 ![picture 0](images/d82087533d8f1fd6fdb3279b708c50d92ee77bb242f11a8ea90d65c063e28d7b.png)  
 Need to learn how to use pinia ,I already import but it say cloudn't read isLoading
